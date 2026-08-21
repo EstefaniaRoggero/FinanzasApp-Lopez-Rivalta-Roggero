@@ -1,10 +1,10 @@
 # FinanzasApp
 
 Prototipo de **Dashboard de Finanzas Personales** desarrollado en Android Studio con **Jetpack Compose**.  
-Proyecto de clase: construcción de un Skill / System Prompt y aplicación de ese Skill para generar arquitectura + interfaz.
+Proyecto de clase (trabajo en equipo): construcción de un Skill / System Prompt y aplicación de ese Skill para generar arquitectura + interfaz.
 
- [EstefaniaRoggero](https://github.com/EstefaniaRoggero)  
-**Repositorio:** https://github.com/EstefaniaRoggero/MisFinanzas-App
+**Integrantes:** López · Rivalta · Roggero  
+**Repositorio:** https://github.com/EstefaniaRoggero/FinanzasApp-Lopez-Rivalta-Roggero
 
 ## Tecnologías utilizadas
 
